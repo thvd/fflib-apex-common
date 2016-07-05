@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "github://financialforcedev/fflib-apex-mocks": "master"
+  }
+}
